@@ -1,1 +1,1 @@
-# Zadanie 26 - Budowa włąsnego chat'a
+# Zadanie 26 - Budowa własnego chat'a
